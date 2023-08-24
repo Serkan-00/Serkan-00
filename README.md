@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **serkancoskun01@hotmail.com**
 
-- 📄 Here is my cv https://github.com/Serkan-00/Serkan-Coskun-CV/blob/main/Serkan%20Coskun%20cv.pdf](https://github.com/Serkan-00/Serkan-Coskun-CV/blob/main/Serkan%20Coskun%20cv.pdf
+- 📄 Here is my cv 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
