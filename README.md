@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serkan Coskun</h1>
 <h3 align="center">A passionate Junior developer from the United Kingdom</h3>
 
-- 🌱 I’m currently learning **JavaScript, React.js, HTML, CSS**
+- 🌱 I’m currently learning **Python, JavaScript, React.js, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Serkan-00](https://github.com/Serkan-00)
 
