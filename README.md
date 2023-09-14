@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **serkancoskun01@hotmail.com**
 
-- My CV -> 
+- My CV -> https://github.com/Serkan-00/Serkan-CV/blob/main/Serkan%20Coskun%20cv.pdf
 
 - LinkedIn -> [https://www.linkedin.com/in/serkan-coskun-54b554232/](https://www.linkedin.com/in/serkan-coskun-54b554232/)
 
