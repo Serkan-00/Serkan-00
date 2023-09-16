@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Coskun</h1>
-<h3 align="center">A passionate developer from the United Kingdom</h3>
+<h3 align="center">A passionate Full Stack Developer from the United Kingdom</h3>
 
 - 🌱 I’m currently learning **Python, Javascript, HTML and CSS**
 
